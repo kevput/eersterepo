@@ -1,3 +1,5 @@
 dit is een random tekst 
+
+1--nieuwe lijn--
 voor het eerste tekstbestandje 
 van een git
